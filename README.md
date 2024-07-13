@@ -22,6 +22,6 @@ Functionalities:
 
 Author:
 
-- [Your Name]
+- [Santhosh_kumar]
 
 This project demonstrates a basic use case for creating interactive elements using HTML, CSS, and JavaScript.
